@@ -1,0 +1,5 @@
+fastapi
+numpy
+pandas
+uvicorn
+web3>=6.0.0
